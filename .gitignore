@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config (DO NOT SHARE)
+local.properties
+
+# IDE (Android Studio / IntelliJ)
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Android Studio captures
+captures/
+
+# External native builds
+.externalNativeBuild/
+.cxx/
+
+# Generated files
+*.apk
+*.aar
+*.dex
+
+# Keystore files (IMPORTANT - security)
+*.jks
+*.keystore
+
+# Kotlin / Java temp
+*.class
+
+# Misc
+.gradle-cache/
