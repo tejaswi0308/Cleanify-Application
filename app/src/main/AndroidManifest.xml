@@ -12,6 +12,48 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CleanifyApplication">
         <activity
+            android:name=".StaffWorkHistory"
+            android:exported="false" />
+        <activity
+            android:name=".FeedbackScreen"
+            android:exported="false" />
+        <activity
+            android:name=".QrScreen"
+            android:exported="false" />
+        <activity
+            android:name=".HouseHelpDashboard"
+            android:exported="false" />
+        <activity
+            android:name=".CreateHouseHelpAccount"
+            android:exported="false" />
+        <activity
+            android:name=".CurrentStatus"
+            android:exported="false" />
+        <activity
+            android:name=".MakeRequestStudent"
+            android:exported="false" />
+        <activity
+            android:name=".EditProfile"
+            android:exported="false" />
+        <activity
+            android:name=".ResetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".OtpVerification"
+            android:exported="false" />
+        <activity
+            android:name=".forgetPassword"
+            android:exported="false" />
+        <activity
+            android:name=".chooseRole"
+            android:exported="false" />
+        <activity
+            android:name=".StudentAccount"
+            android:exported="false" />
+        <activity
+            android:name=".StudentDashboard"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
