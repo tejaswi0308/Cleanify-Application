@@ -1,5 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+
+    <!-- 🔵 PRIMARY THEME -->
+    <color name="primary">#2D6CDF</color>
+    <color name="primary_dark">#1F4FBF</color>
+    <color name="primary_light">#5A8DEE</color>
+
+    <!-- 🌈 GRADIENT -->
+    <color name="gradient_start">#2D6CDF</color>
+    <color name="gradient_end">#A9C3F5</color>
+
+    <!-- ⚪ BACKGROUND -->
+    <color name="background">#F4F7FB</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="light_blue_bg">#EAF2FF</color>
+
+    <!-- 📝 TEXT -->
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- 📥 INPUT FIELDS -->
+    <color name="input_bg">#F1F3F6</color>
+    <color name="input_border">#D1D5DB</color>
+
+    <!-- 🔘 BUTTONS -->
+    <color name="button_blue">#2D6CDF</color>
+    <color name="button_blue_dark">#1F4FBF</color>
+
+    <!-- 🟢 SUCCESS / COMPLETE -->
+    <color name="success">#22C55E</color>
+    <color name="success_dark">#16A34A</color>
+    <color name="light_green_bg">#E8F8F0</color>
+
+    <!-- 🔴 ERROR / CANCEL -->
+    <color name="error">#EF4444</color>
+    <color name="cancel_red">#E53935</color>
+
+    <!-- 🟡 WARNING -->
+    <color name="warning">#F59E0B</color>
+
+    <!-- ⭐ RATING -->
+    <color name="star_active">#FBBF24</color>
+    <color name="star_inactive">#D1D5DB</color>
+
+    <!-- 📊 STATUS BADGES -->
+    <color name="verified_bg">#DCFCE7</color>
+    <color name="verified_text">#15803D</color>
+
+    <!-- 📱 QR CODE -->
+    <color name="qr_blue">#1E3A8A</color>
+    <color name="qr_bg">#EEF2FF</color>
+
+    <!-- 📏 DIVIDER -->
+    <color name="divider">#E5E7EB</color>
+
+    <!-- 🌑 SHADOW (optional) -->
+    <color name="shadow_light">#20000000</color>
+
 </resources>
